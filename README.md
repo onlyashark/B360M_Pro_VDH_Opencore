@@ -26,7 +26,7 @@ OpenCore 0.7.5 setup for running Hackintosh on MSI B360M Pro VDH
 
 
 ## What works:
-- macOS Big Sur 11.1
+- macOS Big Sur 11.4
 - UEFI booting via OpenCore
 - HDMI Video and Audio
 - Native Ethernet

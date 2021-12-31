@@ -1,5 +1,5 @@
 # B360M Pro VDH Opencore
-OpenCore 0.7.6 setup for running Hackintosh on MSI B360M Pro VDH
+OpenCore 0.7.5 setup for running Hackintosh on MSI B360M Pro VDH
 
 ## Desktop Specifications:
 - Intel Core i7 9700TE

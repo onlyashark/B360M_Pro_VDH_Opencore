@@ -6,6 +6,8 @@
 
 OpenCore 0.7.5 setup for running Hackintosh on MSI B360M Pro VDH
 
+![](Bruh.png)
+
 ## Desktop Specifications:
 - Intel Core i7 9700TE
 - Intel UHD 630 Graphics

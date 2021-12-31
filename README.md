@@ -37,4 +37,5 @@ OpenCore 0.7.5 setup for running Hackintosh on MSI B360M Pro VDH
 - Ethernet
 - Sleep and Wake
 
-
+## What doesn't work:
+- UBS Type C Port

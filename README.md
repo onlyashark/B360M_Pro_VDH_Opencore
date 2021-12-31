@@ -23,4 +23,16 @@ OpenCore 0.7.5 setup for running Hackintosh on MSI B360M Pro VDH
 - Ducky One 3 Matcha 100%
 
 
-## Update
+## What works:
+- macOS Big Sur 11.1
+- UEFI booting via OpenCore
+- HDMI Video and Audio
+- Native Ethernet
+- Wifi,Bluetooth and AirDrop
+- Native audio with AppleALC, including headphone
+- Native power management
+- USB 3.0 Ports
+- Ethernet
+- Sleep and Wake
+
+

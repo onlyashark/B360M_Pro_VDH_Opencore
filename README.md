@@ -1,7 +1,9 @@
 # B360M Pro VDH Opencore
 
 [![macOS](https://img.shields.io/badge/macOS-11.4-orange)](https://www.apple.com/macos/big-sur/)
+
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.7.5-9cf)](https://dortania.github.io/OpenCore-Install-Guide/)
+
 OpenCore 0.7.5 setup for running Hackintosh on MSI B360M Pro VDH
 
 ## Desktop Specifications:

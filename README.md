@@ -39,3 +39,6 @@ OpenCore 0.7.5 setup for running Hackintosh on MSI B360M Pro VDH
 
 ## What doesn't work:
 - UBS Type C Port
+
+## Warming
+- You can only install Big Sur by Recovery Mode

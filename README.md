@@ -17,7 +17,7 @@ OpenCore 0.7.5 setup for running Hackintosh on MSI B360M Pro VDH
 - MSI RX570 4G Gaming X
 - Seasonic Focus GX 750
 - BCM94360CD
-- SATA SSD 120G+SATA SSD 275G+WD M.2 SATA 240G SSD+HDD 1T
+- SATA SSD 120G+SATA SSD 275G+M.2 SATA 240G SSD+HDD 1T
 
 - Twin 1080P  Display
 - Logitech G304
@@ -31,14 +31,15 @@ OpenCore 0.7.5 setup for running Hackintosh on MSI B360M Pro VDH
 - HDMI Video and Audio
 - Native Ethernet
 - Wifi,Bluetooth and AirDrop
-- Native audio with AppleALC, including headphone
+- Native audio with AppleALC
 - Native power management
 - USB 3.0 Ports
 - Ethernet
 - Sleep and Wake
 
 ## What doesn't work:
-- UBS Type C Port
+- USB Type C Port
 
 ## Warming
 - You can only install Big Sur by Recovery Mode
+- Avermedia AM310 have some trouble
